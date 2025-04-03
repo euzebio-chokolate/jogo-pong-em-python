@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu projeto de Pong em Python. Ele inclui informações sobre como instalar e executar o jogo, bem como uma descrição de como o arquivo de pontuação funciona.
-
----
-
 # Pong Game em Python
 
 Este é um jogo clássico de **Pong** implementado em Python utilizando a biblioteca **pygame**. O jogo permite que dois jogadores controlem as raquetes com o objetivo de marcar pontos ao fazer a bola passar pela raquete do adversário.
